@@ -1,0 +1,63 @@
+[
+{
+    "Nome" : "The Legend of Zelda: Breath of the Wild",
+    "Plataforma" : "Nintendo Switch",
+    "Gênero" : "Acção e Aventura",
+    "Ano de Lançamento": 2017,
+    "Descrição" : "Explore um vasto mundo aberto cheio de segredos, inimigos e desafios enquanto embarca em uma jornada épica para salvar Hyrule.",
+    "Tags" : ["Ação", "Aventura", "Mundo Aberto", "Single Player"],
+    "Link" : "https://www.nintendo.com/pt-br/store/products/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition-switch-2/?srsltid=AfmBOorwCocgMQSx5sPgWR-qP8W7v-zJXSBiqrP1cp0HQH8EACXktwoW"
+}, 
+
+{
+    "Nome" : "God of War",
+    "Plataforma" : "PlayStation 4",
+    "Gênero" : "Acção e Aventura",
+    "Ano de Lançamento": 2018,
+    "Descrição" : "Acompanhe Kratos e seu filho Atreus em uma jornada emocionante através da mitologia nórdica, enfrentando deuses e monstros.",
+    "Tags" : ["Ação", "Aventura", "Mitologia", "Single Player"],
+    "Link" : "https://store.playstation.com/pt-br/product/UP9000-CUSA07408_00-GODOFWAR0000000"
+
+},
+
+{
+    "Nome" : "Red Dead Redemption 2",
+    "Plataforma" : "PlayStation 4, Xbox One, PC",
+    "Gênero" : "Ação e Aventura",
+    "Ano de Lançamento": 2018,
+    "Descrição" : "Uma história épica sobre honra e lealdade no alvorecer da era moderna na América. Jogue como Arthur Morgan, um fora da lei na gangue Van der Linde.",
+    "Tags" : ["Ação", "Aventura", "Mundo Aberto", "Velho Oeste", "Single Player"],
+    "Link" : "https://www.rockstargames.com/br/reddeadredemption2"
+},
+
+{
+    "Nome" : "The Witcher 3: Wild Hunt",
+    "Plataforma" : "PlayStation 4, Xbox One, PC, Nintendo Switch",
+    "Gênero" : "RPG de Ação",
+    "Ano de Lançamento": 2015,
+    "Descrição" : "Como o caçador de monstros Geralt de Rívia, explore um vasto mundo de fantasia sombria, em busca da Criança da Profecia.",
+    "Tags" : ["RPG", "Ação", "Mundo Aberto", "Fantasia", "Single Player"],
+    "Link" : "https://www.thewitcher.com/br/pt/witcher3"
+},
+
+{
+    "Nome" : "Elden Ring",
+    "Plataforma" : "PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, PC",
+    "Gênero" : "RPG de Ação",
+    "Ano de Lançamento": 2022,
+    "Descrição" : "Levante-se, Maculado, e seja guiado pela graça para brandir o poder do Anel Prístino e se tornar um Lorde Prístino nas Terras Intermédias.",
+    "Tags" : ["RPG", "Ação", "Mundo Aberto", "Fantasia Sombria", "Difícil"],
+    "Link" : "https://pt.bandainamcoent.eu/elden-ring/elden-ring"
+},
+
+{
+    "Nome" : "Hades",
+    "Plataforma" : "PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S",
+    "Gênero" : "Roguelike, Ação",
+    "Ano de Lançamento": 2020,
+    "Descrição" : "Desafie o deus dos mortos enquanto você batalha para fugir do Submundo da mitologia grega neste 'roguelike' aclamado pela crítica.",
+    "Tags" : ["Roguelike", "Ação", "Indie", "Mitologia Grega"],
+    "Link" : "https://www.supergiantgames.com/games/hades/"
+}
+
+]
